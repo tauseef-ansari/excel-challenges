@@ -1,37 +1,22 @@
-# Excel Challenge 68 - Create a PivotTable From Multiple Workbooks
+# Excel Challenge 68 - Consolidating Data from Multiple Workbooks
 
 ## Business Scenario
 
-A company maintains expense data across three departments:
+A company maintains expense records across multiple departmental workbooks. Management requires a consolidated report to analyze company-wide expenses.
 
-- HR
-- Operations
-- Sales
+## Solution
 
-Management requires a consolidated expense report showing company-wide totals and department-level breakdowns.
-
-## Objectives
-
-- Consolidate data from multiple workbooks
-- Create a PivotTable report
-- Analyze expenses by department
-- Generate company-wide summaries
+I used Power Query to combine data from multiple workbooks using the Append Queries feature and then loaded the consolidated dataset into a Pivot Table for reporting and analysis.
 
 ## Skills Demonstrated
 
+- Power Query
+- Append Queries
 - Data Consolidation
-- PivotTables
+- Pivot Tables
 - Data Analysis
 - Reporting
-- Excel Data Modeling
 
-## Files
+## Outcome
 
-- solution.xlsx
-- screenshots/
-
-## Key Takeaways
-
-- Combined data from multiple workbook sources
-- Built dynamic PivotTable summaries
-- Created department-level analysis views
+Created a single source of truth by combining multiple departmental datasets and generated a Pivot Table report for management review.
