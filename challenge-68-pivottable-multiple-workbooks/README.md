@@ -1,22 +1,49 @@
-# Excel Challenge 68 - Consolidating Data from Multiple Workbooks
+# 📊 Excel Challenge 68 — Expense Consolidation & Analysis
 
-## Business Scenario
+## 📌 Project Overview
 
-A company maintains expense records across multiple departmental workbooks. Management requires a consolidated report to analyze company-wide expenses.
+This project solves GoSkills Excel Challenge 68, which involves
+consolidating departmental expense data and creating a management
+report.
+## Challenge Description
+![Challenge_Description](screenshots/Challenge_Description.png)
 
-## Solution
 
-I used Power Query to combine data from multiple workbooks using the Append Queries feature and then loaded the consolidated dataset into a Pivot Table for reporting and analysis.
+## 🛠️ Approach
 
-## Skills Demonstrated
+I used:
 
 - Power Query
 - Append Queries
-- Data Consolidation
 - Pivot Tables
+- Data Consolidation
 - Data Analysis
-- Reporting
 
-## Outcome
+### 🔄 Data Consolidation
 
-Created a single source of truth by combining multiple departmental datasets and generated a Pivot Table report for management review.
+Multiple departmental workbooks were combined using Power Query.
+
+![Power Query Append](screenshots/PowerQuery.png)
+
+
+### 📈 Final Report
+
+The resulting report provides a consolidated view of the expense data.
+
+![Final Report](screenshots/FinalResult.png)
+
+## 💡 Key Takeaways
+
+- Learned how to consolidate data from multiple workbooks.
+- Used Power Query Append to combine datasets.
+- Created a Pivot Table from the consolidated data.
+- Practiced turning raw data into a management-ready report.
+
+## 📁 Files
+
+- `excel-challenge-68-Solution.xlsx` — completed Excel solution
+- `screenshots/` — screenshots of the solution
+
+## 🎯 Skills Demonstrated
+
+`Excel` `Power Query` `Pivot Tables` `Data Consolidation` `Data Analysis`
