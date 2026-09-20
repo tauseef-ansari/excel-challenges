@@ -1,4 +1,8 @@
-# 📊 Excel Challenge 68 — Expense Consolidation & Analysis
+# 📊 GoSkills Excel Challenge 68 - Data Analysis with PivotTables
+
+![Excel](https://img.shields.io/badge/Excel-Advanced-success)
+![PivotTables](https://img.shields.io/badge/PivotTables-Data%20Analysis-blue)
+![GoSkills](https://img.shields.io/badge/GoSkills-Challenge-orange)
 
 ## 📌 Project Overview
 
