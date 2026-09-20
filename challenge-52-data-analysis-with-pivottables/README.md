@@ -4,7 +4,6 @@
 ![PivotTables](https://img.shields.io/badge/PivotTables-Data%20Analysis-blue)
 ![GoSkills](https://img.shields.io/badge/GoSkills-Challenge-orange)
 
-# 📊 GoSkills Excel Challenge 52 - Data Analysis with PivotTables
 
 ## Overview
 
